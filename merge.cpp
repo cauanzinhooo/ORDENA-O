@@ -6,6 +6,8 @@ ABRINDO PRA ESQUERDA
 E ACESSANDO OS SUBVETORES 
 E REALIZA INTERCALAÇÕES NOS SUBVETORES
 DEPOIS REALIZA O MESMO PROCESSO COM A METADE DO VETOR DA PARTE DA DIREITA.
+Merge é a rotina que combina dois arrays ordenados em um outro também ordenado. Assim como o Quick Sort aplica várias vezes o particionamento 
+para ordenar um array, o Merge Sort também aplica o Merge várias para ordenar um array.
 
 C EXEMPLE:
 
