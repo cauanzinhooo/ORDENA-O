@@ -25,5 +25,17 @@ O CRITERIO DE ORDENAÇÃO</h2>
 <p align="center">
 <img src="https://4.bp.blogspot.com/-EyeELX6FcgI/WzAk5BAA7nI/AAAAAAAAIFM/rjJ4_kKZ4P8Izyp15y2xZaJ0peYdtW29QCLcBGAs/s1600/comparativo-desempenho-bubble-selection-insertion-sort.png">
 </p>
+<h1 color="blue" align="center">SELECTION</h1>
+<h2 align='center'>BASICAMENTE O SELECTION SELECIONA O PRIMEIRO VETOR POSIÇÃO I VAI RODANDO TODA A LISTA VERIFICANDO TODOS OS NÚMEROS AO ENCONTRAR UM NÚMERO MENOR CONTINUA RODANDO A LISTA
+CASO NÃO TENHA NÚMERO MENOR REALIZA A TROCA E ASSIM SEGUE. PEGA A POSIÇÃO II E VAI COMPARANDO COM A LISTA CASO TENHA NUMERO MENOR REALIZA A TROCA DO MESMO E ASSIM SEGUE
+ATÉ ORDENAR.</h2>
+<p align="center">
+<img src='https://www.programiz.com/sites/tutorial2program/files/Selection-sort-0.png'
+</p>
+<h2 align='center'>COMPLEXIDADE BUBBLE X SELECTION X INSERTION</h2>
+<p align='center'>
+<img src='https://miro.medium.com/max/981/1*sav5YXtt9R_3jmw7TBcSMg.png'>
+</p>
+
 </body>
 </html>
