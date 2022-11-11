@@ -12,5 +12,18 @@ ENTRANDO EM UM LOOP E VOLTANDO DO COMEÇO DA LISTA ATÉ QUE TODOS ESTEJAM ORDENA
 <p align="center">
   <img src="https://miro.medium.com/max/599/1*9xHclC3mesd9G2fFSt76fA.png">
 </p>
+<h1 color="blue" align="center">INSERTION SORT</h1>
+<p>
+<h2 align="center">INSERTION PERCORRE DA ESQUERDA PARA A DIREITA COMO O BUBBLE PORÉM A PARTIR DO SEGUNDO ELEMENTO PEGA O PRÓXIMO ITEM DA LISTA E ORDENA USANDO
+O CRITERIO DE ORDENAÇÃO</h2>
+</p>
+
+<p align="center">
+<img src="https://miro.medium.com/max/765/0*1zi2XtjiLXa3LYZh.PNG"
+</P>
+<h1 align="center">INSERTION X BUBBLE </h1>
+<p align="center">
+<img src="https://4.bp.blogspot.com/-EyeELX6FcgI/WzAk5BAA7nI/AAAAAAAAIFM/rjJ4_kKZ4P8Izyp15y2xZaJ0peYdtW29QCLcBGAs/s1600/comparativo-desempenho-bubble-selection-insertion-sort.png">
+</p>
 </body>
 </html>
