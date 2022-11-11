@@ -36,6 +36,12 @@ ATÉ ORDENAR.</h2>
 <p align='center'>
 <img src='https://miro.medium.com/max/981/1*sav5YXtt9R_3jmw7TBcSMg.png'>
 </p>
+<h1 aling='center'>MERGE SORT</h1>
+<h2 align='center'>MERGE É A ROTINA QUE COMBINA DOIS ARRAYS ORDENADOS EM UM OUTRO TAMBÉM ORDENADO. ASSIM COMO O QUICK SORT APLICA VÁRIAS VEZES O PARTICIONAMENTO PARA ORDENAR UM ARRAY, O MERGE SORT TAMBÉM APLICA O MERGE VÁRIAS PARA ORDENAR UM ARRAY. SEPARANDO EM SUB-VETORES SEMPRE PARA A ESQUERDA E FAZENDO A ORDENAÇÃO CONFORME
+A ORDENAÇÃO.</h2>
+<p align='center'><img src='https://www.programiz.com/sites/tutorial2program/files/merge-sort-example_0.png'></p>
+<h1 align='center'>MERGE X BUBBLE COMPARASION</h1>
+<p align='center'><img src='https://plotly.com/~patelpiya/23/time-comparison-between-bubble-sort-merge-sort.png'</p>
 
 </body>
 </html>
